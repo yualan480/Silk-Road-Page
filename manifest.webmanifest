@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Silk Road",
+  "short_name": "Silk Road",
+  "description": "A history project exploring the routes, goods and ideas of the Silk Roads.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5ebd9",
+  "theme_color": "#f5ebd9",
+  "icons": [
+    {
+      "src": "silk-road/logo.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
